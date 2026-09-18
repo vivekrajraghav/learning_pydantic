@@ -2,6 +2,7 @@
 ![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-2.x-e92063?logo=pydantic&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-Fast-purple)
+
 This repository tracks my progress in learning and implementing **Pydantic** for data validation. Day 4 focuses on using the `@model_validator` decorator to implement cross-field validation, allowing us to validate data based on the relationship between multiple different fields.
 
 ## Model Validation Overview
