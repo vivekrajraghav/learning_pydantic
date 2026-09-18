@@ -2,7 +2,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-2.x-e92063?logo=pydantic&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-Fast-purple)
 
-# Learning Pydantic: Day 2
+# Learning Pydantic (Data Validation): Day 2
 
 This repository tracks my progress in learning and implementing **Pydantic** for data validation. Day 2 focuses on moving beyond basic type hints to enforce advanced validation rules, specialized network types, and strict constraints.
 
