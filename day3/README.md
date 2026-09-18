@@ -2,7 +2,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-2.x-e92063?logo=pydantic&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-Fast-purple)
 
-# Learning Pydantic: Day 3
+# Learning Pydantic (Field Validation): Day 3
 
 This repository tracks my progress in learning and implementing **Pydantic** for data validation. Day 3 focuses on using the `@field_validator` decorator to implement custom business logic, enforce strict rules, and apply automatic data transformations.
 
