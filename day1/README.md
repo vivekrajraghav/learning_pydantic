@@ -1,8 +1,8 @@
+# Learning Pydantic: Day 1
 ![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-2.x-e92063?logo=pydantic&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-Fast-purple)
 
-# Learning Pydantic: Day 1
 
 This repository tracks my progress in learning and implementing **Pydantic** for data validation. It serves as a personal reference for revisiting core concepts and code snippets.
 
